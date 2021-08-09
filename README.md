@@ -5,8 +5,8 @@
 
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |                                                                                                                                                             |
-| > Something like a guide for Begginers. All of us need guidence at the start, Mom was there when learn to walk 😂🤩😛                                      |
-| > i will add another version in english soon, just that i have time for.                                                                                    |
+|> Something like a guide for Begginers. All of us need guidence at the start, Mom was there when learn to walk 😂🤩😛                                       |
+|> i will add another version in english soon, just that i have time for.                                                                                     |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 Para todos aquellos que comienzan a utilizar y conocer **"Git"** como sistema de control de versiones para proyectos/colaborativos, lo mas recomendable, solo como consejo y dato básico para quienes no lo sepan o tengan una base y conocimiento acerca de; es familiarizarse con el uso de la consola de comandos, sea cual sea la que les agrade utilizar ya sea **"bash"** en Linux y sus distros, **"Powershell"** o **"CMD"** en Windows, los comandos para utilizar la **"CLI"** > (Command Line Interface) de Git son prácticamente los mismo en todas, a excepción de ciertas variables específicas de cada  consola.
