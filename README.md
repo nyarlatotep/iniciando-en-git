@@ -38,14 +38,13 @@ Haciendo referencia a lo anterior, por supuesto hay que saber que dicha CLI, hay
     2. El repositorio de [git en GitHub](https://github.com/git/git).
     3. Algún administrador de paquetes como Node.js (npm) o Chocolatey si es que tuvieran instalado alguno:
 
+npm:
 
-      ``
-      npm install git@latest -g
-      
-       
-      
-      choco install git --required-version <version-a-instalar>
-      ``
+    npm install git@latest -g
+         
+choco:      
+
+    choco install git --required-version <version-a-instalar>
       
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -57,7 +56,7 @@ Antes de ocupar un __"IDE"__ o entorno de desarrollo (Puedo recomendarles [Atom]
 2. Si tienes un repo local, asegurate de crear el archivo de ignorados .gitignore, para evitar que subas carpetas o archivos que no son útiles o no deban estar en la red.
 3. Si quieres subir un proyecto o parte de el al hub, pero no has iniciado un repositorio local __(git init)__ presta atención en que directorio o carpeta estas ubicado en tu consola, si aun no lo sabes bien, tendrás que clonar tu repo en la web dentro tu directorio local __(git clone <https url> <ssh url>)__ a lo que yo pienso y opino que es la mejor manera como iniciado, de sincronizar tus repositorios y no te estes confundiendo con las ramas y como agregar o eliminar remotos etc, Primero lo primero, claro. 
 4. Continuando en el punto anterior, Observa en que directorio te ubicas antes de ejecutar git clone, cuando clonas el repositorio este **CREA UNA NUEVA CARPETA** conteniendo todo lo que haya en tu repositorio en la web, así como una carpeta oculta .git donde se encuentra la configuración global, los REFS, HEADS, diffs, entre otros. Si haces el clone dentro de la carpeta que contiene tu proyecto local, esta quedará fuera de tu repositorio clonado, conteniendo esté a su vez y habrá una bola de problemas y confusiones si quieres sacar la carpeta clonada o meter los archivos a esta. 
-5. Es mejor clonar el repositorio en un __"source"__ como P/E "C:\\Users\\<tu-usuario>\source\repos\\<todos-tus-repos>" de esta manera queda fuera de tu proyecto e independiente , dejando la libertad y posibilidad de que puedas arrastrar o copiar tus archivos de proyecto que quieras subir a tu repo en GitHub y evitandote dolores de cabeza y complicar lo que no lo es.
+5. Es mejor clonar el repositorio en un __"source"__ como P/E  **"C:\\Users\<tu-usuario>\source\repos\<todos-tus-repos>"**  de esta manera queda fuera de tu proyecto e independiente , dejando la libertad y posibilidad de que puedas arrastrar o copiar tus archivos de proyecto que quieras subir a tu repo en GitHub y evitandote dolores de cabeza y complicar lo que no lo es.
 **
   
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
