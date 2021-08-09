@@ -1,11 +1,12 @@
 # Init on git
 **some basic helps and references to begginers on git, locally and synch it to remotes.**
+
 |------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |                                                                                                                                                            |
 | > Something like a guide for Begginers. All of us need guidence at the start, Mom was there when learn to walk 😂🤩😛                                     |
 | > i will add another version in english soon, just that i have time for.                                                                                   |
 |                                                                                                                                                            |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------
+|-------------------------------------------------------------
 
 Para todos aquellos que comienzan a utilizar y conocer **"Git"** como sistema de control de versiones para proyectos/colaborativos, lo mas recomendable, solo como consejo y dato básico para quienes no lo sepan o tengan una base y conocimiento acerca de; es familiarizarse con el uso de la consola de comandos, sea cual sea la que les agrade utilizar ya sea **"bash"** en Linux y sus distros, **"Powershell"** o **"CMD"** en Windows, los comandos para utilizar la **"CLI"** > (Command Line Interface) de Git son prácticamente los mismo en todas, a excepción de ciertas variables específicas de cada  consola.
 
@@ -32,11 +33,14 @@ Haciendo referencia a lo anterior, por supuesto hay que saber que dicha CLI, hay
        Lo pueden encontrar en el [sitio oficial de git-scm](https://git-scm.com/). Aqui tmb pueden encontrar todas las formas de instalarlo en 
        las distros de linux.
     2. El repositorio de [git en GitHub](https://github.com/git/git).
-    3. Algún administrador de paquetes como Node.js (npm) o Chocolatey si es que tuvieran instalado alguno.
-      ```cmd
+    3. Algún administrador de paquetes como Node.js (npm) o Chocolatey si es que tuvieran instalado alguno:
+
+
+      ```
        npm install git@latest -g
        ```
-       ```cmd
+       
+       ```
        choco install git --required-version <version-a-instalar>
       ```
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
