@@ -3,13 +3,13 @@
 
 **some basic helps and references to begginers on git, locally and synch it to remotes.**
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------|
-                                                                                                                                                             |
-                                                                                                                                                             |
-> Something like a guide for Begginers. All of us need guidence at the start, Mom was there when learn to walk 😂🤩😛                                       |
-> i will add another version in english soon, just that i have time for.                                                                                     |
-                                                                                                                                                             |                                                                                                                                                                                |
--------------------------------------------------------------------------------------------------------------------------------------------------------------|
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                                                                                                             
+                                                                                                                                                             
+> Something like a guide for Begginers. All of us need guidence at the start, Mom was there when learn to walk 😂🤩😛                                       
+> i will add another version in english soon, just that i have time for.                                                                                     
+                                                                                                                                                                                                                                                                                                                                             
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Para todos aquellos que comienzan a utilizar y conocer **"Git"** como sistema de control de versiones para proyectos/colaborativos, lo mas recomendable, solo como consejo y dato básico para quienes no lo sepan o tengan una base y conocimiento acerca de; es familiarizarse con el uso de la consola de comandos, sea cual sea la que les agrade utilizar ya sea **"bash"** en Linux y sus distros, **"Powershell"** o **"CMD"** en Windows, los comandos para utilizar la **"CLI"** > (Command Line Interface) de Git son prácticamente los mismo en todas, a excepción de ciertas variables específicas de cada  consola.
 
@@ -39,13 +39,14 @@ Haciendo referencia a lo anterior, por supuesto hay que saber que dicha CLI, hay
     3. Algún administrador de paquetes como Node.js (npm) o Chocolatey si es que tuvieran instalado alguno:
 
 
-      ```
+      ``
       npm install git@latest -g
-      ```
+      ``
        
-      ```
+      ``
       choco install git --required-version <version-a-instalar>
-      ```
+      ``
+      
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 En fin cualquiera que sea el método es lo mas recomendable iniciar por conocer los comandos básicos para administrar repositorios locales y sincronizarlos con los "remotes" los cuales conocen bien y son los que se alojan aquí en el hub de  **GitHub**; para lo cual es importante saber como es el funcionamiento inicial para que no resulte en problemas como los que muchos tuvimos al principio y que ustedes manifiestan experimentar. 
