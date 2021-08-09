@@ -6,8 +6,8 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                                                                                                              
                                                                                                                                                              
-> Something like a guide for Begginers. All of us need guidence at the start, Mom was there when learn to walk 😂🤩😛                                       
-> i will add another version in english soon, just that i have time for.                                                                                     
+>  Something like a guide for Begginers. All of us need guidence at the start, Mom was there when learn to walk 😂🤩😛                                       
+>  I will add another version in english soon, just that i have time for.                                                                                     
                                                                                                                                                                                                                                                                                                                                              
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -41,9 +41,9 @@ Haciendo referencia a lo anterior, por supuesto hay que saber que dicha CLI, hay
 
       ``
       npm install git@latest -g
-      ``
+      
        
-      ``
+      
       choco install git --required-version <version-a-instalar>
       ``
       
